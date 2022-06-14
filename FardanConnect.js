@@ -4172,7 +4172,7 @@ break
 punten = [{buttonId: 'antiwame off', buttonText: {displayText: 'Disable️'}, type: 1},{buttonId: 'antiwame on', buttonText: {displayText: 'Enable'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*Broadcast By Fardan Ganteng*',
+    footerText: '*Broadcast By Bang Moon*',
     buttons: punten,
     headerType: 1
 }
